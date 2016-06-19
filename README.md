@@ -59,8 +59,9 @@ A sum of all transactions that are transitively linked by their parent_id to $tr
 
 * Java8
 * Spring Boot 1.3.5
-* Spring Boot Data MongoDB 1.8.4
-* Maven3.5.1 
+* Spring Data MongoDB 1.8.4
+* EmbeddedMongo 1.5.0
+* Maven 3.5.1 
 
 ### Project details: ###
 
